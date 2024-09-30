@@ -16,3 +16,5 @@ That's it, the idea is to be able to upload the paths of the PDFs you have and c
 
 ## Using a API?
 Additional API support is also included, in __main.js__
+
+Rate a ⭐ if it helped you 😉
